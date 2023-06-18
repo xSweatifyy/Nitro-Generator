@@ -1,0 +1,10 @@
+{
+    "proxies": "socks4",
+    "thread": "200",
+
+    "webhook": {
+        "url": "https://discord.com/api/webhooks/1120062756029218856/XsqPwjNGaKxJnmI7lr7HIpufKac4sKYmgdwF28iugZbVzTlJqwZUnqbRfYEhW-GI0wDc",
+        "username": "Captain Hook",
+        "avatar": "https://discord.com/assets/4c1b599b1ef5b9f1874fdb9933f3e03b.png"
+    }
+}
